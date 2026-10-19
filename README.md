@@ -1,5 +1,3 @@
-# industrial-motor-control-panel
-Electrical design and simulation of an industrial motor control and protection panel
 # Industrial Motor Control and Protection Panel
 
 ## Project Overview
